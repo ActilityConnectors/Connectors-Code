@@ -9,7 +9,7 @@
     }
   },
   "driver": {
-    "classRef": "DecoderRef"
+    "classRef": ""
   },
   "connectors": [
     {
